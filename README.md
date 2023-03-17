@@ -1,5 +1,5 @@
-- 👋 Hi,,, I’m  Touqeer Hussain
-- 🌱 I’m currently working Javascript and .NET diffrent frameworks and libraries
+- 👋 Hi,,, I’m  Ahmad Khalil
+- 🌱 I’m currently working Javascript diffrent frameworks and libraries
 - 💞️ I’m looking to collaborate on IT 
 - ☕ <a href="https://www.buymeacoffee.com/htouqeer938" target="_blank">Buy me Coffee</a>
 - 📫 How to reach me: { <br/>
@@ -36,15 +36,15 @@
 
 
 <!---
-htouqeer938/htouqeer938 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mahmadkhalil7672/mahmadkhalil7672 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=htouqeer938)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahmadkhalil7672)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![htouqeer938 GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&count_private=true)](https://github.com/htouqeer938/github-readme-stats)<span>     ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938&layout=compact)</span>
+[![mahmadkhalil7672 GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmadkhalil7672&count_private=true)](https://github.com/mahmadkhalil7672/github-readme-stats)<span>     ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmadkhalil7672&layout=compact)</span>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=htouqeer938)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mahmadkhalil7672)](https://git.io/streak-stats)
 <br>
