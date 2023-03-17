@@ -4,8 +4,7 @@
 - ☕ <a href="https://www.buymeacoffee.com/mahmadkhalil7672" target="_blank">Buy me Coffee</a>
 - 📫 How to reach me: { <br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923011321938">+923011321938</a>)<br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:htouqeer938@gmail.com">htouqeer938@gmail.com</a>)<br/>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web: (<a target="_blank" href="http://www.touqeerhussain.me">touqeerhussain.me</a>)<br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:mahmadkhalil7672@gmail.com">mahmadkhalil7672@gmail.com</a>)<br/>
               }
 <h1>Connect with me </h1>
 
