@@ -1,7 +1,7 @@
 - 👋 Hi,,, I’m  Ahmad Khalil
 - 🌱 I’m currently working Javascript diffrent frameworks and libraries
 - 💞️ I’m looking to collaborate on IT 
-- ☕ <a href="https://www.buymeacoffee.com/htouqeer938" target="_blank">Buy me Coffee</a>
+- ☕ <a href="https://www.buymeacoffee.com/mahmadkhalil7672" target="_blank">Buy me Coffee</a>
 - 📫 How to reach me: { <br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923011321938">+923011321938</a>)<br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:htouqeer938@gmail.com">htouqeer938@gmail.com</a>)<br/>
@@ -11,7 +11,7 @@
 
 <a href="https://www.linkedin.com/in/touqeer-hussain-753715228/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%"></a>
  <span>
-            <a href="https://github.com/htouqeer938" rel="nofollow"><img
+            <a href="https://github.com/mahmadkhalil7672" rel="nofollow"><img
                         src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="5%" height="5%"></a></span>
 </span>
 
